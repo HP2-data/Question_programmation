@@ -2,6 +2,7 @@
 
 Ce Repo contient des exemples simples de comment réaliser la liste des opérations ci-dessous.
 
+iris data-set
 ## Language R
 ### Graphique
 
