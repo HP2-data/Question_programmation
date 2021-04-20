@@ -17,18 +17,29 @@ Pour être considéré comme valable une nouvelle ajout doit répondre au spéci
 ## Language R
 ### Graphique
 
-[Changer les valeurs de l'axe des Y](R/graphique/add_suffix_to_label.R)  
-![Changer les valeurs de l'axe des Y](R/graphique/add_suffix_to_label.png){ width=50% }
+[Changer les valeurs de l'axe des Y](R/graphique/add_suffix_to_label.R)
+
+
+<img src="R/graphique/add_suffix_to_label.png" alt="Changer les valeurs de l'axe des Y" width="250"/>
+
+
 Ajout d'un suffix après chaque éléments de l'axe des Y
 
 
 
 [Plusieurs plot cote à cote avec une seul légende](R/graphique/multiple_odd_plot_side_by_side_one_legend.R)
-![Plusieurs plot cote à cote avec une seul légende](R/graphique/multiple_odd_plot_side_by_side_one_legend.png){ width=50% }
+
+
+<img src="R/graphique/multiple_odd_plot_side_by_side_one_legend.png" alt="Plusieurs plot cote à cote avec une seul légende" width="250"/>
+
+
 Mettre un nombre impair de plot cote à cote avec le plot seul centré et une seul légende.
 
 [Tableau sous un plot aligné avec l'axe des X](R/graphique/ajout_tableau.R)
-![Tableau sous un plot aligné avec l'axe des X](R/graphique/ajout_tableau.png){ width=50% }
+
+
+<img src="R/graphique/ajout_tableau.png" alt="Tableau sous un plot aligné avec l'axe des X" width="250"/>
+
 Ajout d'un tableau sous l'axe des X dont les colonnes sont aligné avec l'axe des X.
 
 
