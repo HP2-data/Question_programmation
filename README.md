@@ -4,13 +4,13 @@ Ce Repo contient des exemples simples de comment réaliser les graphique et tabl
 
 ## Modalité d'ajout.
 
-Pour être considéré comme valable une nouvelle ajout doit répondre au spécification suivante :
-* Être ajouter dans le dossier correspondant au language de programmation.
-* Être ajouter dans la sous-section correspondante de ce Readme avec :
-    * Le noms du graphique avec un lien vers le code associé.
+Pour être considéré comme valable, un nouvel ajout doit répondre aux spécifications suivantes :
+* Être ajouté dans le dossier correspondant au langage de programmation.
+* Être ajouté dans la sous-section correspondante de ce Readme avec :
+    * Le nom du graphique avec un lien vers le code associé.
     * Une image du résultat.
     * Une brève description
-* Les exemples doivent etre executable seul sans données associé. Il est donc recommandé d'utiliser le jeux de données IRIS, quand cela est impossible utiliser des données simulé dans le script.
+* Les exemples doivent être exécutables seuls sans données associées. Il est donc recommandé d'utiliser le jeu de données IRIS, quand cela est impossible utiliser des données simulées dans le script.
 
 
 
@@ -23,24 +23,73 @@ Pour être considéré comme valable une nouvelle ajout doit répondre au spéci
 <img src="R/graphique/add_suffix_to_label.png" alt="Changer les valeurs de l'axe des Y" width="250"/>
 
 
-Ajout d'un suffix après chaque éléments de l'axe des Y
+Ajout d'un suffixe après chaque élément de l'axe des Y
 
 
 
-[Plusieurs plot cote à cote avec une seul légende](R/graphique/multiple_odd_plot_side_by_side_one_legend.R)
+[Plusieurs plots côte à côte avec une seule légende](R/graphique/multiple_odd_plot_side_by_side_one_legend.R)
 
 
-<img src="R/graphique/multiple_odd_plot_side_by_side_one_legend.png" alt="Plusieurs plot cote à cote avec une seul légende" width="250"/>
+<img src="R/graphique/multiple_odd_plot_side_by_side_one_legend.png" alt="Plusieurs plots côte à côte avec une seule légende" width="250"/>
 
 
-Mettre un nombre impair de plot cote à cote avec le plot seul centré et une seul légende.
+mettre un nombre impair de plots côte à côte avec le plot seul centré et une seule légende.
 
 [Tableau sous un plot aligné avec l'axe des X](R/graphique/ajout_tableau.R)
 
 
 <img src="R/graphique/ajout_tableau.png" alt="Tableau sous un plot aligné avec l'axe des X" width="250"/>
 
-Ajout d'un tableau sous l'axe des X dont les colonnes sont aligné avec l'axe des X.
+Ajout d'un tableau sous l'axe des X dont les colonnes sont alignées avec l'axe des X.
+
+
+### Table
+
+## Language python
+
+# Question_programmation
+
+Ce Repo contient des exemples simples de comment réaliser les graphique et tableau présenté ci-dessous des opérations ci-dessous.
+
+## Modalité d'ajout.
+
+Pour être considéré comme valable, un nouvel ajout doit répondre aux spécifications suivantes :
+* Être ajouté dans le dossier correspondant au langage de programmation.
+* Être ajouté dans la sous-section correspondante de ce Readme avec :
+    * Le nom du graphique avec un lien vers le code associé.
+    * Une image du résultat.
+    * Une brève description
+* Les exemples doivent être exécutables seuls sans données associées. Il est donc recommandé d'utiliser le jeu de données IRIS, quand cela est impossible utiliser des données simulées dans le script.
+
+
+
+## Language R
+### Graphique
+
+[Changer les valeurs de l'axe des Y](R/graphique/add_suffix_to_label.R)
+
+
+<img src="R/graphique/add_suffix_to_label.png" alt="Changer les valeurs de l'axe des Y" width="250"/>
+
+
+Ajout d'un suffixe après chaque élément de l'axe des Y
+
+
+
+[Plusieurs plots côte à côte avec une seule légende](R/graphique/multiple_odd_plot_side_by_side_one_legend.R)
+
+
+<img src="R/graphique/multiple_odd_plot_side_by_side_one_legend.png" alt="Plusieurs plots côte à côte avec une seule légende" width="250"/>
+
+
+mettre un nombre impair de plots côte à côte avec le plot seul centré et une seule légende.
+
+[Tableau sous un plot aligné avec l'axe des X](R/graphique/ajout_tableau.R)
+
+
+<img src="R/graphique/ajout_tableau.png" alt="Tableau sous un plot aligné avec l'axe des X" width="250"/>
+
+Ajout d'un tableau sous l'axe des X dont les colonnes sont alignées avec l'axe des X.
 
 
 ### Table
