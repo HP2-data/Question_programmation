@@ -45,4 +45,14 @@ Ajout d'un tableau sous l'axe des X dont les colonnes sont aligné avec l'axe de
 
 ### Table
 
+[Table de statistique descriptive et test pairwises](R/table/desc_stat_R.r)
+
+Ensemble de fonctions permettant de générer un tableau complet de statistiques descriptive
+
+
+* TODO  
+  * pairwise test  
+  * Documentation R0²  
+
+
 ## Language python
